@@ -39,7 +39,6 @@ apis:
   - name: Codeforces
     description: "Get access to Codeforces data"
     humanURL: https://codeforces.com/apiHelp
-    baseURL: https://codeforces.com/apiHelp
     tags:
       - Programming
     properties:
