@@ -27,7 +27,7 @@ description: "Get access to Codeforces data"
 url: https://codeforces.com/apiHelp
 specificationVersion: '0.23'
 created: '2026-05-28'
-modified: '2026-05-28'
+modified: '2026-10-06'
 x-source: public-apis/public-apis
 x-category: "Programming"
 x-tier: 3
@@ -45,6 +45,8 @@ apis:
       - type: Documentation
         url: https://codeforces.com/apiHelp
 common:
+  - url: https://codeforces.com/news/
+    type: Blog
   - type: DomainSecurity
     url: security/codeforces-domain-security.yml
   - type: Website
